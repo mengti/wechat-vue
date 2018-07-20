@@ -1,6 +1,6 @@
 # wechat-vue
 
-> vue单页面应用 微信公众号授权登录 支付流程。
+vue单页面应用 微信公众号授权登录 支付流程。
 
 ## Build Setup
 
